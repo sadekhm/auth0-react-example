@@ -1,6 +1,6 @@
 import React from "react";
 
-import logo from "../assets/logo.svg";
+const logo = "https://cdn.auth0.com/blog/auth0-react-sample/assets/logo.svg";
 
 const Hero = () => (
   <div className="text-center hero my-5">
